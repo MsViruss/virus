@@ -1,0 +1,2 @@
+# virus
+Вирус на python
